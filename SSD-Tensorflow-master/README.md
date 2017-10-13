@@ -1,4 +1,5 @@
-# SSD: Single Shot MultiBox Detector in TensorFlow
+# 代码在 notebooks/ssd_notebook.ipynb 对图片进行方形切割
+## SSD: Single Shot MultiBox Detector in TensorFlow
 
 SSD is an unified framework for object detection with a single network. It has been originally introduced in this research [article](http://arxiv.org/abs/1512.02325).
 
